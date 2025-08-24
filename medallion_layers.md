@@ -57,10 +57,6 @@ In this project, Azure Data Factory (ADF) orchestrates the end‑to‑end flow f
 
 ---
 
-## 6. Visual Reference
-*(Optional – include a diagram in `/docs/architecture_diagram.png` to show the Bronze → Silver → Gold flow for this pipeline)*
-
----
 
 **Author:** Nadimul  
 **Date:** 2025‑08‑24  
